@@ -105,15 +105,12 @@ The dataset contains approximately **80,000 student records** with features incl
 ---
 
 ## 📂 Project Structure
-├── data/
-├── notebooks/
-├── models/
-├── results/
-├── README.md
+├── data/<br>
+├── notebooks/<br>
+├── models/<br>
+├── results/<br>
+├── README.md<br>
 └── requirements.txt
-
----
-
 
 ---
 
@@ -121,10 +118,10 @@ The dataset contains approximately **80,000 student records** with features incl
 1. Clone the repository  
 ```bash
 git clone https://github.com/your-username/student-performance-prediction-ml.git
-
+```
 2. Navigate to the project folder
 ```bash
 cd student-performance-prediction-ml
-
+```
 3. Install dependencies
 4. Run the notebook
